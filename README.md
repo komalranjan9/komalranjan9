@@ -2,7 +2,7 @@
 <h3 align="center">Frontend developer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalranjan9&label=Profile%20views&color=0e75b6&style=flat" alt="komalranjan9" /> </p>
 
-- 🔭 I’m currently working on [Meal Sharing](https://github.com/270516/meal-sharing.git)
+- 🔭 I’m currently learning **React & Typescript**
 
 - 🌱 I’m currently learning **React, TypeScript,Tailwind**
 
