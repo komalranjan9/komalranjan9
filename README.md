@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, TypeScript,Tailwind**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **komalranjan24@gmail.com**
 
